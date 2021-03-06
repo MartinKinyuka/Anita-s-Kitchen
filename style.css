@@ -1,0 +1,27 @@
+/* Dropdown navbar styling*/
+.navbar div{
+  height: 3px;
+  background-color: white;
+  margin: 5px 0;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+.navbar{
+  width: 20px;
+  display: block;
+  margin: 1em 0 0 1em;
+}
+.home{
+  width: 30px;
+}
+.drinks{
+  width: 30px;
+}
+.fast-food{
+  width: 30px;
+}
+
+.nav:hover div{
+  width: 20px;
+}
