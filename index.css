@@ -5,3 +5,18 @@ body{
   background-position: center top;
  
 }
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width:20%;
+}
+.logo>p{
+  display: block;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: x-large;
+}
