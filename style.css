@@ -1,27 +1,66 @@
 /* Dropdown navbar styling*/
 .navbar div{
-  height: 3px;
+  height: 2px;
   background-color: white;
   margin: 5px 0;
   border-radius: 25px;
   transition: 0.3s;
+  position: relative;
+  top: 50px;
+  left: 100px;
+
+ 
+  
+
 }
 
 .navbar{
-  width: 20px;
+  width: 40px;
   display: block;
   margin: 1em 0 0 1em;
 }
 .home{
-  width: 30px;
+  width: 40px;
 }
 .drinks{
-  width: 30px;
+  width: 40px;
 }
 .fast-food{
-  width: 30px;
+  width: 40px;
 }
 
-.nav:hover div{
-  width: 20px;
+.navbar:hover div{
+  width: 60px;
+}
+
+#happy{
+  background-color: lightgray;
+  padding-top: 40px;
+  font-size: x-large;
+  box-sizing: border-box;
+  height: 105px;
+  width:350px;
+  text-align: center;
+  position: relative;
+  top: 85px;
+  left: 50px;
+  
+
+}
+#party{
+  background-color: #F15A29;
+  box-sizing: border-box;
+  width: 350px;
+  padding-top: 40px;
+  font-size: x-large;
+  text-align: center;
+  height: 105px;
+  position: relative;
+  left: 50px;
+  top: 86px;
+  
+}
+.meal-images{
+  position: relative;
+  bottom: 60px;
 }
