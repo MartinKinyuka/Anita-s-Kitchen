@@ -117,3 +117,30 @@
 .about>h2{
   color: #F15A29;
 }
+.footp{
+  background-image: url("subscribe.jpg");
+  width: auto;
+  height: 301px;
+  margin-top: 50px;
+}
+.phrase1{
+color: white;
+font-size: x-large;
+position: relative;
+left: 500px;
+top: 75px;
+}
+.subscribe{
+  box-sizing: border-box;
+  background-color: #F15A29;
+  height: 30px;
+  width: 150px;
+  color: white;
+  text-align: center;
+  float: right;
+  position: relative;
+  top: 100px;
+  font-size: large;
+  padding-top: 5px;
+  
+}
