@@ -179,3 +179,18 @@ top: 75px;
   left: 655px;
   top: 70px;
 }
+#fb{
+  position: relative;
+  left: 600px;
+  top: 80px;
+}
+#twitter{
+  position: relative;
+  left: 609px;
+  top: 80px;
+}
+#pint{
+  position: relative;
+  left: 616px;
+  top: 80px;
+}
