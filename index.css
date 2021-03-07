@@ -21,19 +21,57 @@ body{
   font-size: x-large;
 }
 
-#dinner{
-  float: right;
-  margin-right: 47px;
-  margin-top: -64px;
-}
-#lunch{
+
+.breakfast{
   position: relative;
-  left: 396px;
-  bottom: 64px;
+  text-align: center;
+  color: white;
+  bottom: 125px;
+  right: 175px;
+
+}
+.text1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: x-large;
+  font-style: italic;
+  transform: translate(-50%, -50%);
+}
+
+.lunch{
+  position: relative;
+  text-align: center;
+  color: white;
+  left: 175px;
+  bottom: 338px;
   
 }
-#breakfast{
+
+.text2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: x-large;
+  font-style: italic;
+  transform: translate(-50%, -50%)
+
+}
+.dinner{
   position: relative;
-  left: 400px;
-  bottom: 64px;
+  text-align: center;
+  color: white;
+  float: right;
+  bottom: 552px;
+  right:48px;
+  
+}
+.text3{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: x-large;
+  font-style: italic;
+  transform: translate(-50%, -50%)
+  
 }
