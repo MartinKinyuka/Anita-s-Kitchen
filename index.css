@@ -108,3 +108,40 @@ body{
   width:170px ;
   padding: 10px;
 }
+.row2{
+  float: right;
+  border:none ;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 5px grey;
+  padding: 10px;
+  height: fit-content;
+  width: fit-content;
+  height: 400px;
+  position: relative;
+  left: 0px;
+}
+.pillar{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  border: 5px black;
+  height: 400px;
+  width: 320px;
+  position: relative;
+  left: 300px;
+}
+.view{
+  color: #F15A29;
+  border: 3px solid #F15A29;
+  text-align: center;
+  width:170px ;
+  padding: 10px;
+  position: relative;
+  left: 125px;
+}
+.pillar>p{
+  text-align: right;
+}
+.pillar>h2{
+  text-align: right;
+}
