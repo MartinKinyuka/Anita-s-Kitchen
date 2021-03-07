@@ -194,3 +194,10 @@ top: 75px;
   left: 616px;
   top: 80px;
 }
+.rights{
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 150px;
+  right: 20px;
+}
