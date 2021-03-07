@@ -144,3 +144,17 @@ top: 75px;
   padding-top: 5px;
   
 }
+.email{
+  box-sizing: border-box;
+  background-color: grey;
+  height:30px ;
+  width: 320px;
+  color: white;
+  text-align: left;
+  position: relative;
+  top: 130px;
+  left: 500px;
+  font-size: large;
+  padding-top: 5px;
+  
+}
