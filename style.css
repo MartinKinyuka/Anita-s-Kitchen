@@ -84,3 +84,19 @@
 .lunch:hover .greying {
   opacity: 1;
 }
+
+.post{
+  text-align: center;
+  box-sizing: border-box;
+  border: none;
+  width: 500px;
+  height: fit-content;
+  box-shadow: 2px 2px 5px grey;
+  position: relative;
+  left: 200px;
+  margin-top: 100px;
+  
+}
+.post>h2{
+  color: #F15A29;
+}
