@@ -188,7 +188,12 @@ body{
   left: 300px;
   top: 100px;
 }
-
+.view:hover{
+  background-color:blue;
+}
+.gallery:hover{
+  background-color: blue;
+}
 
 
 
