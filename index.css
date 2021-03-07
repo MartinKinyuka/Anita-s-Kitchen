@@ -76,6 +76,7 @@ body{
   
 }
 .row1{
+  clear: both;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
